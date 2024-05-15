@@ -8,3 +8,13 @@ h1 {
     font-size: 55px;;
     font-weight: 700;
 }
+
+#dora {
+    background-color: rgba(160, 60, 77, 0.8);
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    font-size: 60px;
+}
